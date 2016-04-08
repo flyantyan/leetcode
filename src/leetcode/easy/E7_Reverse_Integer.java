@@ -7,7 +7,7 @@ package leetcode.easy;
  * @author yanfei
  *
  */
-public class E13_Reverse_Integer {
+public class E7_Reverse_Integer {
 
 	public int reverse(int x) {
 		/**
@@ -30,6 +30,6 @@ public class E13_Reverse_Integer {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(new E13_Reverse_Integer().reverse(1534236469));
+		System.out.println(new E7_Reverse_Integer().reverse(1534236469));
 	}
 }
