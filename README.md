@@ -9,4 +9,3 @@ ListNode 使用技巧(避免判断)
 	
 	return result.next ;
 	
-	

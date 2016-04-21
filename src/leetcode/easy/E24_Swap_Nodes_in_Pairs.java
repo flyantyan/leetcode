@@ -4,6 +4,7 @@ import leetcode.ListNode;
 
 public class E24_Swap_Nodes_in_Pairs {
 
+	
 	public ListNode swapPairs(ListNode head) {
 		ListNode result = new ListNode(0);
 		result.next = head;
