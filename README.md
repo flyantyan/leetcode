@@ -1,5 +1,8 @@
 ##算法分类:
 	贪心算法:M12
+	二分查找：
+		M34_Search_for_Range.java
+ 		M35_Search_Insert_Position.java
 	
 	
 
