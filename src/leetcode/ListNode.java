@@ -13,15 +13,17 @@ public class ListNode {
 		if(num.length == 0)
 			return null ;
 		
-		ListNode head = new ListNode(num[0]);
+		ListNode head = new ListNode(0);
+		head.next = null ;
+		ListNode t = head ;
 		
-		ListNode p = head ;
-		
-		for(int i = 1 ; i < num.length ; i ++){
-			p.next = new ListNode(num[i]);
+		for(int i = 0 ; i < num.length ; i ++){
+			ListNode temp = new ListNode(num[i]);
+			t.next = temp ;
+			t = temp ;
 		}
 		
-		return head ;
+		return head.next ;
 		
 		
 		
