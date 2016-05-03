@@ -11,8 +11,6 @@ public class M64_Minimum_Path_Sum {
 			sum[i] = sum[i - 1] + grid[0][i];
 		}
 
-		StringBuilder sb ;
-		sb.reverse()
 		for (int i = 1; i < row; i++) {
 			sum[0] += grid[i][0];
 			for (int j = 1; j < column; j++) {
