@@ -3,6 +3,10 @@
 	二分查找：
 		M34_Search_for_Range.java
  		M35_Search_Insert_Position.java
+ 		
+ 		二分查找的实质是根据排序性质丢掉一部分无用数据
+ 		H33_Search_in_Rotated_Sorted_Array
+ 		M81. Search in Rotated Sorted Array II
 	
 	DFS：
 		M39_Combination_Sum
@@ -29,3 +33,8 @@ ListNode 使用技巧(避免判断)
 	
 	return result.next ;
 	
+	
+链表：
+	M86_Partition_List
+	E83_Remove_Duplicates_from_Sorted_List
+	M82_Remove_Duplicates_from_Sorted_ListII
