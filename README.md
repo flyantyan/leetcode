@@ -18,6 +18,7 @@ DP:
 	M62_Unique_Paths
 	M63_Unique_Paths_II
 	M64_Minimum_Path_Sum
+	M152. Maximum Product Subarray
 	
 	H115. Distinct Subsequences
 		
@@ -79,3 +80,7 @@ BST:
 		
  greedy algorithms:
  	M122. Best Time to Buy and Sell Stock II 
+ 	
+ 	
+ 
+ sort
