@@ -23,6 +23,8 @@ public class E160_Intersection_of_Two_Linked_Lists {
 		}
 
 		int len = 0;
+		pA = headA;
+		pB = headB;
 		if (lenA > lenB) {
 			len = lenA - lenB;
 			pA = headA;
