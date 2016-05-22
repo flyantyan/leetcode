@@ -82,7 +82,6 @@ BST:
 		
  greedy algorithms:
  	M122. Best Time to Buy and Sell Stock II 
-<<<<<<< HEAD
  	
  	
  
@@ -92,3 +91,15 @@ BST:
  
  Graph
  	M332. Reconstruct Itinerary
+ 	
+ 	
+ 	
+Sort
+	Merge Sort
+		327. Count of Range Sum
+		315. Count of Smaller Numbers After Self
+		
+Status
+	Easy	Middle	Hard
+	24(14)	86(31)	65(13)    10+55+52 = 117     14+31+13=58   117+58 = 175
+ 	
