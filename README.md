@@ -33,6 +33,7 @@ Linked List
 	Linked List Cycle
 		141. Linked List Cycle
 		142. Linked List Cycle II 
+		287. Find the Duplicate Number
 		
 		
 		
@@ -101,7 +102,7 @@ Sort
 		
 Status
 	Easy	Middle	Hard
-	22(14)	85(31)	62(13)    112     14+31+13=58   117+58 = 175
+	20(14)	83(31)	60(13)    112     14+31+13=57    163
  	
 333
 175
