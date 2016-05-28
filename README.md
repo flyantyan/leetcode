@@ -23,7 +23,9 @@ DP:
 	H115. Distinct Subsequences
 	E198. House Robber
 	H132_Palindrome_Partitioning_II
-		
+	
+	M300. Longest Increasing Subsequence
+	
 Linked List		
 	
 	
@@ -81,6 +83,9 @@ BST:
 		M108. Convert Sorted Array to Binary Search Tree 
 		109. Convert Sorted List to Binary Search Tree
 		
+	Lever Order Traversal
+		199. Binary Tree Right Side View
+		
  greedy algorithms:
  	M122. Best Time to Buy and Sell Stock II 
  	
@@ -102,7 +107,7 @@ Sort
 		
 Status
 	Easy	Middle	Hard
-	20(14)	80(31)	59(13)    108     14+31+13=57    
+	20(14)	77(31)	59(13)    105    14+31+13=57    
  	
 333
 175
