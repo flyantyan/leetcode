@@ -26,6 +26,8 @@ DP:
 	
 	M300. Longest Increasing Subsequence
 	
+	H32. Longest Valid Parentheses
+	
 Linked List		
 	
 	
@@ -107,7 +109,7 @@ Sort
 		
 Status
 	Easy	Middle	Hard
-	20(14)	75(31)	56(13)    100    14+31+13=57    
+	19(14)	73(31)	54(13)    95    14+31+13=57    
  	
 
  permutation 经典算法
