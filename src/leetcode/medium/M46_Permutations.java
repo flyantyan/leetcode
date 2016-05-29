@@ -4,6 +4,39 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class M46_Permutations {
+	/////////////========start
+	 public List<List<Integer>> permute_1(int[] nums) {
+	        List<List<Integer>> result = new ArrayList<>() ;
+	        if(nums == null)
+	            return result ;
+	        permute(nums , 0 , result) ;
+	        return result ;
+	    }
+	    
+	    private void permute(int[] nums , int k , List<List<Integer>> result){
+	        if(k == nums.length){
+	            List<Integer> r = new ArrayList<>() ;
+	            for(int i = 0 ; i < nums.length; i++)
+	                r.add(nums[i]);
+	            result.add(r) ;
+	            return ;
+	        }
+	        
+	        for(int i = k ; i < nums.length ; i++){
+	            swap(nums , i , k);
+	            permute(nums , k+1 , result);
+	            swap(nums , i , k);
+	        }
+	    }
+	    
+	    private void swap(int arr[] , int i , int j){
+	        int temp = arr[i] ;
+	        arr[i] = arr[j] ;
+	        arr[j] = temp ;
+	    }
+	////////////=========end
+	
+	
 	public List<List<Integer>> permute(int[] nums) {
 		List<List<Integer>> res = new ArrayList<List<Integer>>();
 		helper(nums, new ArrayList<Integer>(), res);
