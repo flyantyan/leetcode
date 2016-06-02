@@ -27,6 +27,7 @@ DP:
 	M300. Longest Increasing Subsequence
 	
 	H32. Longest Valid Parentheses
+	M322. Coin Change
 	
 Linked List		
 	
@@ -109,7 +110,7 @@ Sort
 		
 Status
 	Easy	Middle	Hard
-	19(14)	71(31)	53(13)    92    14+31+13=57    
+	18(14)	69(31)	52(13)    87    14+31+13=57    
  	
 
  permutation 经典算法
