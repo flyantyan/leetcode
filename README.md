@@ -28,6 +28,7 @@ DP:
 	
 	H32. Longest Valid Parentheses
 	M322. Coin Change
+	H312. Burst Balloons
 	
 Linked List		
 	
@@ -110,7 +111,7 @@ Sort
 		
 Status
 	Easy	Middle	Hard
-	18(14)	69(31)	52(13)    87    14+31+13=57    
+	18(14)	69(31)	51(13)    87    14+31+13=57    
  	
 
  permutation 经典算法
