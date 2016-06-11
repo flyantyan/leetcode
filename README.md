@@ -112,8 +112,11 @@ Sort
 		
 Status
 	Easy	Middle	Hard
-	18(14)	59(31)	45(13)    72   14+31+13=58    
+	18(14)	55(31)	44(13)    72   14+31+13=58    
  	
 
  permutation 经典算法
  	52. N-Queens II
+ 	
+ 正则表达式
+ 	229. Majority Element II
