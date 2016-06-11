@@ -30,7 +30,7 @@ DP:
 	M322. Coin Change
 	H312. Burst Balloons
 	M309. Best Time to Buy and Sell Stock with Cooldown
-	
+	M221. Maximal Square
 Linked List		
 	
 	
@@ -112,7 +112,7 @@ Sort
 		
 Status
 	Easy	Middle	Hard
-	18(14)	62(31)	46(13)    72   14+31+13=58    
+	18(14)	59(31)	45(13)    72   14+31+13=58    
  	
 
  permutation 经典算法
