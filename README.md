@@ -112,7 +112,7 @@ Sort
 		
 Status
 	Easy	Middle	Hard
-	17(14)	54(31)	43(13)    72   14+31+13=58    
+	17(14)	52(31)	41(13)    72   14+31+13=58    
  	
 
  permutation 经典算法
@@ -120,3 +120,6 @@ Status
  	
  正则表达式
  	229. Majority Element II
+ 	
+ 	
+DFS
