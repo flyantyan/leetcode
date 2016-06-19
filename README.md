@@ -112,7 +112,7 @@ Sort
 		
 Status
 	Easy	Middle	Hard
-	13(14)	40(31)	34(13)    72   14+31+13=58    
+	1/2		11/22	24(13)    36/37  
  	
 
  permutation 经典算法
