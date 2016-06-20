@@ -112,7 +112,7 @@ Sort
 		
 Status
 	Easy	Middle	Hard
-	1/1		11/14	24(13)    36/28
+	1/1		11/10	24(13)    36/24
  	
 
  permutation 经典算法
@@ -123,3 +123,7 @@ Status
  	
  	
 DFS
+
+ Union-Find
+ 	261. Graph Valid Tree
+ 	323. Number of Connected Components in an Undirected Graph
