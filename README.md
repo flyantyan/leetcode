@@ -112,7 +112,7 @@ Sort
 		
 Status
 	Easy	Middle	Hard
-	1/1		11/10	24(13)    36/24
+	1/0		11/9	24(13)    36/22
  	
 
  permutation 经典算法
